@@ -1,0 +1,19 @@
+body {
+  position: absolute;
+  padding-top: 3rem;
+  width: 100%;
+}
+
+.main-category-list a {
+  margin-left: 1rem;
+  margin-top: 3rem;
+}
+
+.category-title-tags {
+  font-size: 0.75rem;
+  margin-left: 1rem;
+}
+
+.category-title-tags li {
+  margin-right: 3.5rem;
+}

@@ -1,0 +1,61 @@
+footer {
+  width: 100%;
+  position: fixed;
+
+  bottom: 0;
+  left: 0;
+  background-color: #1e1e1e;
+  padding-bottom: 2rem;
+
+  font-family: Arial, Helvetica, sans-serif;
+}
+.footer-list {
+  float: left;
+  margin-left: 1.25rem;
+}
+
+.footer-list li a {
+  /*
+    can this be placed into index.css? come back
+    */
+  color: #ffff;
+}
+
+.footer-list li :hover a {
+  color: red;
+}
+
+.footer-list li {
+  padding-right: 1.25rem;
+  padding-left: 1.25rem;
+
+  border-right-style: solid;
+  border-right-color: #ffff;
+  border-right-width: 1px;
+}
+
+.copyright {
+  color: #ffff;
+
+  width: 100%;
+  bottom: 0;
+  float: left;
+
+  margin-left: 5rem;
+  font-size: 0.75rem;
+}
+
+.store-socials-list {
+  padding-top: 6rem;
+}
+
+.socials {
+  display: inline-block;
+  margin-left: 3rem;
+  position: fixed;
+}
+
+.app-stores {
+  float: right;
+  margin-right: 3rem;
+}

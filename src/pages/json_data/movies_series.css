@@ -1,0 +1,10 @@
+.program-image {
+  width: 109px;
+  height: 164px;
+  margin-left: 1rem;
+  margin-top: 3rem;
+
+  border: 0.25rem;
+  border-style: solid;
+  border-color: black;
+}
